@@ -16,7 +16,7 @@ const Bio = {
         frameworks: ['React', 'Bootstrap']
   },
   currentOccupation: 'open for job opportunities',
-  curiousFact: 'The world\'\s first camera took eight hours to take a photo'
+  curiousFact: 'The world s first camera took eight hours to take a photo'
 }
 
 ```
