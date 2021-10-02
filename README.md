@@ -9,16 +9,13 @@
 const Bio = {
   name: 'Franco De Paulo',
   title: 'Front End Developer',
-  location = 'La Plata, Arg',
+  location: 'La Plata, Arg',
   about: ['web dev', 'music', 'sports'],
-  portfolio: 'https://frandepaulo.netlify.app',
-  social:,
-  
   tech: {
         code: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'Typescript'],
         frameworks: ['React', 'Bootstrap']
   }
-  currentOccupation: ['last year student, open for job opportunities'],
+  currentOccupation: 'open for job opportunities',
   curiousFact: 'The world's first camera took eight hours to take a photo'
 }
 
