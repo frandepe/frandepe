@@ -12,7 +12,7 @@ const Bio = {
   location: 'La Plata, Arg',
   about: ['web dev', 'music', 'sports'],
   tech: {
-        code: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'Typescript'],
+        code: ['HTML', 'CSS', 'SASS', 'JavaScript', 'Typescript'],
         frameworks: ['React', 'Bootstrap']
   },
   currentOccupation: 'open for job opportunities',
