@@ -13,7 +13,7 @@ const Bio = {
   about: ['web dev', 'music', 'sports'],
   tech: {
         code: ['HTML', 'CSS', 'SASS', 'JavaScript', 'Typescript'],
-        frameworks: ['React', 'Bootstrap']
+        frameworks: ['React', 'Bootstrap', 'Tailwind CSS']
   },
   currentOccupation: 'open for job opportunities',
   curiousFact: 'The world s first camera took eight hours to take a photo'
