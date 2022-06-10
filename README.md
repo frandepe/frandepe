@@ -12,7 +12,8 @@ const Bio = {
   location: 'La Plata, Arg',
   about: ['web dev', 'music', 'sports'],
   tech: {
-        code: ['HTML', 'CSS', 'SASS', 'JavaScript', 'Typescript'],
+        frontend: ['HTML', 'CSS', 'SASS', 'JavaScript', 'Typescript'],
+        backend: ['Express', 'Node', 'MongoDB'],
         frameworks: ['React', 'Bootstrap', 'Tailwind CSS']
   },
   currentOccupation: 'open for job opportunities',
