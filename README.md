@@ -10,7 +10,7 @@ const Bio = {
   name: 'Franco De Paulo',
   title: 'Front End Developer',
   location: 'La Plata, Arg',
-  about: ['web dev', 'music', 'sports'],
+  about: ['web dev', 'music', 'sports', 'chess'],
   tech: {
         frontend: ['HTML', 'CSS', 'SASS', 'JavaScript', 'Typescript'],
         backend: ['Express', 'Node', 'MongoDB'],
