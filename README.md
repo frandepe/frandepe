@@ -14,7 +14,7 @@ const Bio = {
   tech: {
         frontend: ['HTML', 'CSS', 'SASS', 'JavaScript', 'Typescript'],
         backend: ['Express', 'Node', 'MongoDB'],
-        frameworks: ['React', 'Bootstrap', 'Tailwind CSS']
+        frameworks: ['React','Next', 'Bootstrap', 'Tailwind CSS']
   },
   currentOccupation: 'open for job opportunities',
   curiousFact: 'The world s first camera took eight hours to take a photo'
