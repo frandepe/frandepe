@@ -13,16 +13,17 @@ const Bio = {
   about: ['web dev', 'music', 'sports', 'chess'],
   tech: {
         frontend: ['HTML', 'CSS', 'SASS', 'JavaScript', 'Typescript'],
-        backend: ['Express', 'Node', 'MongoDB'],
-        frameworks: ['React','Next', 'Bootstrap', 'Tailwind CSS']
+        backend: ['Express', 'Node', 'MongoDB', 'MySql'],
+        frameworks: ['React*','Next', 'React Native'],
+        design: ['Bootstrap', 'Tailwind CSS', 'Material UI']
   },
-  currentOccupation: 'open for job opportunities',
+  currentOccupation: 'Frontend in Natura',
   curiousFact: 'The world s first camera took eight hours to take a photo'
 }
 
 ```
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/franco-de-paulo-13509b186/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://frandepaulo.com)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://frandepaulo.netlify.app)
 <img align="right" alt="GIF" src="https://c.tenor.com/biarC5oCtyUAAAAC/typing-computer.gif" />
 
 
