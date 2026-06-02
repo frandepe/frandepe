@@ -12,14 +12,14 @@ I build real-world products from idea to production, including architecture, bac
 
 ## Current Projects
 
-### 🚑 Vitalica
+### Vitalica
 Founder & Developer
 
 Online education platform focused on first aid and emergency training. Hybrid learning model combining online theory with in-person practical training. :contentReference[oaicite:0]{index=0}
 
 <a href="https://www.vitalica.com.ar" target="_blank">Visit Vitalica</a>
 
-### 🫀 Congreso Nacional de RCP
+### Congreso Nacional de RCP
 Technical Lead & Organizing Committee Member
 
 Registration, payments, administration and communication platform for one of Argentina's CPR and emergency care events.
