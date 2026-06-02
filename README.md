@@ -15,7 +15,7 @@ I build real-world products from idea to production, including architecture, bac
 ### Vitalica
 Founder & Developer
 
-Online education platform focused on first aid and emergency training. Hybrid learning model combining online theory with in-person practical training. :contentReference[oaicite:0]{index=0}
+Online education platform focused on first aid and emergency training. Hybrid learning model combining online theory with in-person practical training.
 
 <a href="https://www.vitalica.com.ar" target="_blank">Visit Vitalica</a>
 
@@ -46,9 +46,6 @@ Vercel · Render · Neon · Cloudinary · Mux
 - EdTech
 
 ## Contact
-
-LinkedIn: your-linkedin  
-Email: your-email
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/franco-de-paulo-13509b186/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://frandepe.vercel.app/)
