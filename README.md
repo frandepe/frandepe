@@ -32,10 +32,7 @@ Registration, payments, administration and communication platform for one of Arg
 React · Next.js · TypeScript · Tailwind CSS
 
 **Backend**
-Node.js · Express · Prisma · PostgreSQL
-
-**Infrastructure**
-Vercel · Render · Neon · Cloudinary · Mux
+Node.js · Express · MongoDB · Prisma · PostgreSQL
 
 ## Currently Interested In
 
@@ -43,7 +40,6 @@ Vercel · Render · Neon · Cloudinary · Mux
 - Product Development
 - UX/UI
 - AI Assisted Development
-- EdTech
 
 ## Contact
 
